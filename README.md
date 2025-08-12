@@ -12,19 +12,19 @@ php代码实现随机图片api接口 |自适应设备图片
 
 玩法 
 调用单个图片  
-<img src="http://api.webphub.com">
+<img src="http://你的域名.com">
 调用多个图片  
-<img src="http://api.webphub.com?mom=1">
-<img src="http://api.webphub.com?mom=2">
-<img src="http://api.webphub.com?mom=3">
-<img src="http://api.webphub.com?mom=4">
-<img src="http://api.webphub.com?mom=5">
+<img src="http://你的域名?mom=1">
+<img src="http://你的域名?mom=2">
+<img src="http://你的域名?mom=3">
+<img src="http://你的域名?mom=4">
+<img src="http://你的域名?mom=5">
 
-或者http://api.webphub.com/1.php 
+或者http:// api.webphub.com/1.php 
 新建个php文件 内容代码是这个 同时调用5个图片
-<img src="http://api.webphub.com?mom=1">
-<img src="http://api.webphub.com?mom=2">
-<img src="http://api.webphub.com?mom=3">
-<img src="http://api.webphub.com?mom=4">
-<img src="http://api.webphub.com?mom=5">  
+<img src="http://你的域名?mom=1">
+<img src="http://你的域名?mom=2">
+<img src="http://你的域名?mom=3">
+<img src="http://你的域名?mom=4">
+<img src="http://你的域名?mom=5">  
 1 2 3 4 5 随便写
