@@ -1,0 +1,2 @@
+api/images文件夹，放入随机图片无需改名
+例如你的域名是img.webp.com 放入图片后访问img.webp.com/api进行调用
