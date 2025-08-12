@@ -9,22 +9,5 @@ php代码实现随机图片api接口 |自适应设备图片
 示例:域名/az.php?mom=url（ index.php 自行改动）
 
 演示站 https://api.webphub.com
-
-玩法 
-调用单个图片  
-<img src="http://你的域名.com">
-调用多个图片  
-<img src="http ://你的域名?mom=1">
-<img src="http ://你的域名?mom=2">
-<img src="http ://你的域名?mom=3">
-<img src="http ://你的域名?mom=4">
-<img src="http ://你的域名?mom=5">
-
-或者http:// api.webphub.com/1.php 
-新建个php文件 内容代码是这个 同时调用5个图片
-<img src="http ://你的域名?mom=1">
-<img src="http ://你的域名?mom=2">
-<img src="http ://你的域名?mom=3">
-<img src="http ://你的域名?mom=4">
-<img src="http ://你的域名?mom=5">  
-1 2 3 4 5 随便写
+说明看这
+https://github.com/taojinzi/api-/blob/main/wanfa
